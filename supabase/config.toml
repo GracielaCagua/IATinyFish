@@ -1,0 +1,4 @@
+project_id = "tinyprice-codelab"
+
+[functions.search-products]
+verify_jwt = false
